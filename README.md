@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://github.com/cometh-hq/swift4337/blob/0869901c4dafdbafe01aabc13f189d2b89e6a8a1/cometh-logo.png" alt="Cometh"/>
-</p>
-
-# Swift4337
+# THIS IS NOT OFFICIAL Swift4337 - DO NOT USE IT
 
 Swift4337 is a Swift SDK for building with [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337).
 
